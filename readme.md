@@ -5,3 +5,4 @@
 [Unit04](https://github.com/leonfan99/IMLP377/tree/master/Unit04)
 [Unit05](https://github.com/leonfan99/IMLP377/tree/master/Unit05)
 [Unit05-2](https://github.com/leonfan99/IMLP377/tree/master/Unit05-02)
+[Unit06](https://github.com/leonfan99/IMLP377/tree/master/Unit06)
